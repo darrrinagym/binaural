@@ -1,2 +1,2 @@
 # binaural
-binaural.dfmn.ru
+bin.dfmn.ru
